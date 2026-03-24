@@ -1,23 +1,3 @@
-// let change = document.getElementById("demo")
-//  let btn = document.querySelector(".btn")
- 
-//  btn.onclick = function para(){
-//     change.textContent = "vikas";
-//     change.style.color = "red"
-//  }
-
-//  let p = document.createElement("p");
-// p.textContent = "new para by js";
-// document.body.appendChild(p);
-
-// let buton = document.createElement("button")
-// buton.textContent ="click me";
-// document.body.appendChild(buton)
-
-// buton.style.backgroundColor ="red";
-// buton.style.color ="white";
-// buton.style.border = "10px solid blue";
-
-// let btns = document.querySelector(".nbtn");
-//  btns.addEventListener("mouseover" , function(){
-//     btns.style.backgroundColor ="black"
+for (let i = 0; i <=10; i++) {
+//   console.log(5*i);
+// }
