@@ -20,4 +20,23 @@
 
 // let btns = document.querySelector(".nbtn");
 //  btns.addEventListener("mouseover" , function(){
-//     btns.style.backgroundColor ="black"
+//     btns.style.backgroundColor ="black";
+//     btns.style.color = "white"
+//  })
+
+
+let d = new Date();
+console.log(d);
+
+
+function name(){
+    console.log("hy i am vikas");
+    
+}
+function full(callback){
+    callback()
+    console.log("i am 2nd");
+    
+}
+
+full(name);
