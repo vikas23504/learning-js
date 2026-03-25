@@ -70,3 +70,8 @@ obj2.name = "Rahul";
 
 console.log(obj1.name); // Rahul 
 */
+
+let a = 5;
+let b = a;
+b= 10;
+console.log(a);//5

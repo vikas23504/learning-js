@@ -1,3 +1,10 @@
-for (let i = 0; i <=10; i++) {
-//   console.log(5*i);
-// }
+
+// let promise = new Promise((resolve , reject)=>{
+//     let output = setTimeout(() => {
+//         reject("reject")
+//     },1.500);
+// })
+// promise.catch((err)=>{
+//     console.log(err);
+    
+// })
